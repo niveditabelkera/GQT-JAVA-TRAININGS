@@ -3,6 +3,7 @@ package com.gqt.arraysproj;
 import java.util.Scanner;
 
 public class Arraycode3 {
+	//program for the three dimentional array concept
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
